@@ -65,7 +65,32 @@ zas18L,../\structures\8l7r\zasso\zas18_L.x
 zas18R,../\structures\8l7r\zasso\zas18_R.x
 zas19d,../\structures\8l7r\zasso\zas19d.x
 
+Mt_wall_10a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_10a.x
+Mt_wall_10b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_10b.x
+Mt_wall_11a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_11a.x
+Mt_wall_11b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_11b.x
+Mt_wall_12a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_12a.x
+Mt_wall_12b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_12b.x
+Mt_wall_13a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_13a.x
+Mt_wall_13b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_13b.x
+Mt_wall_14a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_14a.x
+Mt_wall_14b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_14b.x
+Mt_wall_15a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_15a.x
+Mt_wall_15b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_15b.x
+Mt_wall_16a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_16a.x
+Mt_wall_16b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_16b.x
+Mt_wall_17a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_17a.x
+Mt_wall_17b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_17b.x
+Mt_wall_18a,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_18a.x
+Mt_wall_18b,..\..\..\Nagoya_Common\Nature\Mt\Mt_wall_18b.x
 
+#åÑä‘ñÑÇﬂ
+BlankL_01,../../../Uchibo20\Structures\Dike\blank_L01.x
+BlankL_02,../../../Uchibo20\Structures\Dike\blank_L02.x
+BlankL_03,../../../Uchibo20\Structures\Dike\blank_L03.x
+BlankR_01,../../../Uchibo20\Structures\Dike\blank_R01.x
+BlankR_02,../../../Uchibo20\Structures\Dike\blank_R02.x
+BlankR_03,../../../Uchibo20\Structures\Dike\blank_R03.x
 
 #É|ÉCÉìÉg
 #pointsw,../../Nagoya_Common\Railway_Obj\Point\Point.x
@@ -85,9 +110,6 @@ RoofCR,../../../Uchibo20\Structures\Sta_Roof\RoofCR_5.x
 
 Powerline,../Structures\tomari\PowerlineL.x
 Pole,../Structures\tomari\Pole.x
-#ÇÊÇÒÇ‹ÇÈ
-DC40-400,..\structures\FTN\DC40-400.x
-DC40_light,..\structures\initG\light_DC40.x
 
 #---------------------------------------------------------------------ì•êÿ-----------------------------------------------------------------------
 CrossingS,../../../Uchibo20\Structures\Crossing\CrossingS.x
